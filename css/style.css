@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background-color: green;
 }
 
 .layout_padding {
@@ -29,11 +29,11 @@ body {
 }
 
 .custom_heading {
-  color: #030404;
+  color: yellow;
 }
 
 .custom_heading span {
-  color: #21d7ff;
+  color: yellow;
 }
 
 /*header section*/
