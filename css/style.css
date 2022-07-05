@@ -176,13 +176,13 @@ a:focus {
 }
 
 .slider_detail-box h1 {
-  color: #ffffff;
+  color: red;
   font-size: 52px;
 }
 
 .slider_detail-box h1 span {
   display: inline-block;
-  color: #434242;
+  color: red;
   font-weight: bold;
 }
 
